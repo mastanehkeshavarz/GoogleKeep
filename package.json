@@ -1,0 +1,23 @@
+{
+  "name": "googlekeep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -i style.css -o output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastanehkeshavarz/GoogleKeep.git"
+  },
+  "author": "mastanehkeshavarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastanehkeshavarz/GoogleKeep/issues"
+  },
+  "homepage": "https://github.com/mastanehkeshavarz/GoogleKeep#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
